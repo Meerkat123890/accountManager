@@ -10,4 +10,8 @@ public class Biodata {
 		this.SIN = SIN;
 		this.age = age;
 	}
+	
+	public Object getBio() {
+		return "name: "+name+" nationality:"+nationality+" sex: "+sex+" age"+age;
+	}
 }

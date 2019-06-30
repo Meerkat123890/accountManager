@@ -12,4 +12,6 @@ public class Biodata {
 	}
 }
 
-//Merge conflict
+	public Object getBio1() {
+		return "name: "+name+" nationality:"+nationality+" sex: "+sex+" age"+age;
+	}

@@ -9,5 +9,5 @@ public class Identification {
 		this.address = address;
 	}
 	
-	//Component to be added: DB insertion of Identification 
+	//Data to be inserted into the DB
 }

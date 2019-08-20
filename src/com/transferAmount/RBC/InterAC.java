@@ -6,7 +6,7 @@ public class InterAC {
 	}
 	
 	public static void selectRecepient() {
-		
+		System.out.println("Select a recepient-->");
 	}
 	
 }
